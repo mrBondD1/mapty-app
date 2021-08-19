@@ -104,7 +104,6 @@ class App {
 
         const { latitude } = position.coords;
         const { longitude } = position.coords;
-        console.log(latitude, longitude);
 
         const coords = [latitude, longitude];
 
@@ -321,3 +320,4 @@ resetBtn.addEventListener('click', function (e) {
         });
 
 });
+console.log('Welcome to this beutiful app!');
