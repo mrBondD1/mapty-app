@@ -294,6 +294,10 @@ class App {
 
 };
 
+const newFeature = function(){
+    console.log('New features added!');
+}
+
 // Creating Object from class
 const app = new App();
 
@@ -315,4 +319,5 @@ resetBtn.addEventListener('click', function (e) {
                 swal("Your workout history is safe!");
             }
         });
+
 });
