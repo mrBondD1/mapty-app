@@ -12,6 +12,9 @@ A web application for your workout history. You can save your workout with locat
 - Whenever you click on the workout information , it will take you to the exact location on the map.
 
 
+#
+
+
 
 ### 🛠 Used HTML, CSS, JavaScript, GeoLocation API and Leaflet js library.
 
